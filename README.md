@@ -11,5 +11,14 @@
 
 - 🗂️ Data cleaning done in local drive
 
-### ARIMA / ANN Model
+### OLS Regression
+
+#### Objective:
+- To answer the question "What affects spot prices?"
+
+#### Models done on:
+- PV
+- PV + PV/Total demand
+
+
 
