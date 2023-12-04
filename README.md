@@ -1,4 +1,4 @@
-# NEM Forecasting Project
+# NEM Research Project
 
 ## Project highlights
 
@@ -11,5 +11,15 @@
 
 - 🗂️ Data cleaning done in local drive
 
-### ARIMA / ANN Model
+### OLS Regression
+
+#### Objective:
+- To answer the question "What affects spot prices?"
+
+#### Models done on:
+- PV (where power generated only explained 3% of spot price)
+- PV/Total demand (where power generated only explained 4% of spot price)
+- PV + PV/Total demand (where power generated over total demand only explained 3% of spot price, same as PV)
+
+
 
