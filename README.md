@@ -29,7 +29,5 @@
 ### Currently working on:
 
 - 🛠️ Wind OLS and Rooftop + Solar / Demand
-- 
-
 
 
