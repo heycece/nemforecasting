@@ -28,8 +28,12 @@
 - AveMWH_Reading (where wind energy generated explained <1% of spot price)
 - AveMWH_Reading/Total demand (where wind energy generated explained .9% of spot price)
 
+- (Wind + Solar) / Demand
+
+
+### 7 day forecasting (DS)
+
 ### Currently working on:
 
-- 🛠️ (Wind + Solar) / Demand
 
 
