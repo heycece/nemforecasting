@@ -34,6 +34,7 @@
 ### 7 day forecasting (DS)
 
 ### Currently working on:
+- Data visualisation
 
 
 
