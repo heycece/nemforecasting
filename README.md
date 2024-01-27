@@ -31,10 +31,11 @@
 - (Wind + Solar) / Demand
 
 
-### 7 day forecasting (DS)
+### Data visuals
+- **7-Day Forecast from PASA Data with Temperature data**
+- **7-Day Recent Data from Different Energy Sources**
 
 ### Currently working on:
-- Data visualisation
 
 
 
