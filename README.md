@@ -34,8 +34,10 @@
 ### Data visuals
 - **7-Day Forecast from PASA Data with Temperature data**
 - **7-Day Recent Data from Different Energy Sources**
+- **7-Day Historical Data on Demand and Price**
 
 ### Currently working on:
+- **City Temperatures and LOR**
 
 
 
