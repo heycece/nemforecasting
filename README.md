@@ -37,7 +37,8 @@
 - **7-Day Historical Data on Demand and Price**
 
 ### Currently working on:
-- **City Temperatures and LOR**
+- **Supply Curve Estimation** for Solar PV accounting for bidstack during active hours
+- **Supply Curve Estimation** for Gas
 
 
 
