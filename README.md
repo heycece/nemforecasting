@@ -36,9 +36,12 @@
 - **7-Day Recent Data from Different Energy Sources**
 - **7-Day Historical Data on Demand and Price**
 
-### Currently working on:
-- **Supply Curve Estimation** for Solar PV accounting for bidstack during active hours
-- **Supply Curve Estimation** for Gas
+### Closed:
 
+Finished this three-month project which collected data via the webscraper -> chucked it into a data pipeline on Microsoft Azure -> created automated visuals of weekly energy reports.
+
+Here's a preview of the dashboard I've created:
+
+<img width="633" alt="PEA" src="https://github.com/user-attachments/assets/3e7e7791-4d68-4526-a721-f8e712a72be6">
 
 
